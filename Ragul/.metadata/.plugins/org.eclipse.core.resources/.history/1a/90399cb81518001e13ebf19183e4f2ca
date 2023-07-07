@@ -1,0 +1,20 @@
+package ragul;
+
+public class vip {
+	public static void main(String arg[]) {
+	int no=0;
+	int total=0;
+	int mark=0;
+	while(no>5)
+	{
+		no=no%1;
+		total=mark+total;
+		
+		no++;
+		
+	}
+	System.out.println(total);
+	}
+	
+
+}

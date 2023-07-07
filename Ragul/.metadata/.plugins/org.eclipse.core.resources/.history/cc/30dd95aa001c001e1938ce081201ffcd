@@ -1,0 +1,10 @@
+package myProject;
+
+public class Details {
+
+	public static void main(String[] args) {
+		Bikes bike=new Hero_Bikes("Hero_Splender_plus",2022,60,97.2,4,9.8,112,785);
+
+	}
+
+}

@@ -1,0 +1,25 @@
+package myProject;
+
+public abstract class Hero_Bikes implements Bikes {
+	String Bike_Name;
+	int Model;
+	int Mileage;
+	double Engine_Capacity;
+	int Transmission;
+	double Fuel_Tank_Capacity;
+	int Kerb_Weight;
+	int Seat_height;
+
+	public Hero_Bikes() {
+		this.Bike_Name="Hero_Splender_plus";
+		this.Model=2022;
+		this.Mileage=60;
+		this.Engine_Capacity=97.2;
+		this.Transmission=4;
+		this.Fuel_Tank_Capacity=9.8;
+		this.Kerb_Weight=112;
+		this.Seat_height=785;
+		
+	}
+
+}

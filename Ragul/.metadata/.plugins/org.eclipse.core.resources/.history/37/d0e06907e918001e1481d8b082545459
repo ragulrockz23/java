@@ -1,0 +1,33 @@
+package collection;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.ListIterator;
+
+public class Count_Element {
+
+	public static void main(String[] args) {
+		List l=new ArrayList();
+		l.add(10);
+		l.add(11);
+		l.add(12);
+		l.add(13);
+		l.add(14);
+		System.out.println(l);
+		
+		int count=0;
+		ListIterator itr=l.listIterator();
+		while(itr.hasNext());
+		{
+			itr.next();
+			if(itr==l) {
+				count++;
+				
+			}
+			System.out.println(count);
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;For_Loop.Palindrome&apos; to &apos;Prime&apos;&#x0D;&#x0A;- Original project: &apos;For&apos;&#x0D;&#x0A;- Original element: &apos;For_Loop.Palindrome&apos;&#x0D;&#x0A;- Renamed element: &apos;For_Loop.Prime&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Palindrome&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;For_Loop{Palindrome.java[Palindrome" matchStrategy="1" name="Prime" qualified="false" references="true" similarDeclarations="false" stamp="1684168904191" textual="false" version="1.0"/>
+</session>

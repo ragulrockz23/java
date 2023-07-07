@@ -1,0 +1,21 @@
+package ragul;
+
+public class CFG {
+
+/*//	/*
+//	*//static void swapValuesUsingThirdVariable(int m,int n)
+//	*//{
+//	*//int temp=m;
+//	*//m=n;
+//	*//n=temp;
+//	*//System.out.println("value of m is"+m+" and value of n is"+n);
+//	*//}
+//	*//public static void main(String args[])
+//	*//{
+//	*//int m=9,n=8;
+//	*//swapValuesUsingThirdVariable(m,n);
+//	*//}
+*/*/
+
+}
+

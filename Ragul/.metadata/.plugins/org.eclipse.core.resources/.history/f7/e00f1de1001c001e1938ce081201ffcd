@@ -1,0 +1,15 @@
+package myProject;
+
+public abstract class Details extends Hero_Bikes{
+
+	public Details(int Model, int Mileage, double Engine_Capacity, int Transmission, double Fuel_Tank_Capacity,
+			int Kerb_Weight, int Seat_height) {
+		super(Model, Mileage, Engine_Capacity, Transmission, Fuel_Tank_Capacity, Kerb_Weight, Seat_height);
+		// TODO Auto-generated constructor stub
+	}
+
+	
+
+	
+
+}

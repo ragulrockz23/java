@@ -1,0 +1,9 @@
+package myProject;
+
+public class Yamaha_Bikes {
+
+	public Yamaha_Bikes() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

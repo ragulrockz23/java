@@ -1,0 +1,10 @@
+package ragul;
+
+public class Remove_even_number_list {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package myProject;
+
+public class Hero_Bikes {
+
+	public Hero_Bikes() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

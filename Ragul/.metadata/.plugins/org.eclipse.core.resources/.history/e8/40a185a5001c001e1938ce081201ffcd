@@ -1,0 +1,9 @@
+package myProject;
+
+public interface Bikes {
+	public void Hero_Bikes(String Bike_Name,int Model,int Mileage,double Engine_Capacity,int Transmission,double Fuel_Tank_Capacity,int Kerb_Weight,int Seat_height);
+
+	//void Hero_Bikes();
+	
+
+}

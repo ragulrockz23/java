@@ -1,0 +1,39 @@
+package collection;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class Add_number {
+
+	public static void main(String[] args) {
+		List l = new ArrayList();
+		l.add(1);
+		l.add(2);
+		l.add(3);
+		l.add(4);
+		l.add(5);
+		System.out.println(l);
+		/*
+		 * Iterator itr=l.iterator(); while(itr.hasNext()) { if((int)itr.next()%2!=0) {
+		 * l.set(0,99); l.set(2,99); l.set(4,99); } } System.out.println(l);
+		 */
+		/*
+		 * l.add(0, 5); System.out.println(l);
+		 */
+		
+		  for(int i=0;i<l.size();i++) {
+			  if((int)i%2!=0) 
+		  { 
+			  l.set(i,99);
+			  }
+		  
+		  
+		  } System.out.println(l);
+		  
+		  
+		  }
+		 
+	}
+
+}
